@@ -1,73 +1,53 @@
-# Welcome to your Lovable project
+# مبادرة إفطار صائم — Islamic Donations Platform
 
-## Project info
+## الغرض من المبادرة
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+مبادرة تطوعية غير ربحية لتوفير وجبات إفطار للصائمين في شهر رمضان. يتم جمع التبرعات وتوزيع الوجبات على المحتاجين.
 
-## How can I edit this code?
+## الحدود الأخلاقية
 
-There are several ways of editing your application.
+هذا الموقع مصمم بشكل متعمد لتجنب:
 
-**Use Lovable**
+- ❌ **لا أهداف مالية** — لا نعرض مبالغ مستهدفة أو نسب تحقيق
+- ❌ **لا إحصائيات** — لا أرقام إنجازات أو عدادات
+- ❌ **لا لغة ترويجية** — لا وعود بأجر أو بركات
+- ❌ **لا ضغط عاطفي** — لا استعجال أو تلاعب
+- ❌ **لا تتبع** — لا تحليلات أو ملفات تعريف ارتباط
+- ❌ **لا حسابات مستخدمين** — لا تسجيل أو بيانات شخصية
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## ما لا يتضمنه الموقع عمداً
 
-Changes made via Lovable will be committed automatically to this repo.
+- مبالغ مقترحة للتبرع
+- شريط تقدم أو أهداف
+- قصص عاطفية أو صور مؤثرة
+- أزرار مشاركة على وسائل التواصل
+- نوافذ منبثقة أو إشعارات
+- أي شكل من أشكال التسويق
 
-**Use your preferred IDE**
+## التقنيات المستخدمة
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
+- React + Vite
 - TypeScript
-- React
-- shadcn-ui
 - Tailwind CSS
+- متوافق مع GitHub Pages
 
-## How can I deploy this project?
+## الترخيص
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+مفتوح المصدر — يمكن استخدامه وتعديله بحرية
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## Purpose
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+A non-commercial, volunteer-driven initiative to provide iftar meals during Ramadan. No marketing, no manipulation, no tracking.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## What This Site Intentionally Does NOT Include
+
+- Donation goals or progress bars
+- Statistics or achievement numbers
+- Emotional storytelling or persuasion
+- Social sharing buttons
+- Pop-ups or notifications
+- Any form of marketing or gamification
+
+Built with restraint, clarity, and honesty.
